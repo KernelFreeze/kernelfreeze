@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Miguel Peláez, I'm from Colombia and a Student of the National University of Colombia. I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
+I'm KernelFreeze, I'm from Colombia and a Student of the National University of Colombia. I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
 
 - 😳 Programming languages I know
   - Rust
