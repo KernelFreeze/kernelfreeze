@@ -26,6 +26,6 @@ I'm KernelFreeze, I'm from Colombia and a Student of the National University of 
   - Twitter Direct Message: [Twitter](https://twitter.com/KernelFreeze)
   - Email: kernelfreeze@outlook.com
 - 😄 Pronouns: ...
-  - They/Them
+  - She/Her
 - ⚡ Fun fact: ...
   - I love nature, Art, Creative Writing, Daydreaming, Exploring, Learning, Music, Reading, Theater, Gaming, and watching Movies, Anime, Series.
