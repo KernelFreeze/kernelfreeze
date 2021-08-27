@@ -6,13 +6,22 @@ I'm KernelFreeze, I'm from Colombia and a Student of the National University of 
   - Rust
   - C
   - C++
-  - Java/Kotlin
+  - Lua
+  - Java
+  - Kotlin
+  - Groovy
   - Python
+  - PHP
+  - Ruby
+  - Haskell
   - C#
-  - JavaScript/TypeScript
+  - F#
+  - JavaScript / TypeScript
   - Go
   - Vala
-  - x86 ASM
+  - Genie
+  - x86_64 ASM (NASM)
+  - Verilog / VHDL
 - 🔭 I’m currently working on ...
   - My operating system and Kernel made from scratch: [etheryal-kernel](https://github.com/etheryal/etheryal-kernel)
   - A Minecraft client written in Rust: [Litecraft](https://github.com/KernelFreeze/Litecraft)
@@ -24,7 +33,7 @@ I'm KernelFreeze, I'm from Colombia and a Student of the National University of 
   - Anything! I love to help 💘
 - 📫 How to reach me: ...
   - Twitter Direct Message: [Twitter](https://twitter.com/KernelFreeze)
-  - Email: kernelfreeze@outlook.com
+  - Email: kernel@kernelcraft.net
 - 😄 Pronouns: ...
   - She/Her
 - ⚡ Fun fact: ...
