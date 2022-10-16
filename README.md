@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm KernelFreeze, I'm from Colombia and a Student of the National University of Colombia. I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
+I'm KernelUwU. I'm a passionate of learning new programming languages, investing in new technologies and systems programming.
 
 - 😳 Programming languages I know
   - Rust
@@ -9,17 +9,13 @@ I'm KernelFreeze, I'm from Colombia and a Student of the National University of 
   - Lua
   - Java
   - Kotlin
-  - Groovy
   - Python
   - PHP
   - Ruby
   - Haskell
   - C#
-  - F#
   - JavaScript / TypeScript
   - Go
-  - Vala
-  - Genie
   - x86_64 ASM (NASM)
   - Verilog / VHDL
 - 🔭 I’m currently working on ...
