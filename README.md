@@ -30,4 +30,3 @@ I'm KernelFreeze. I'm a passionate of learning new programming languages, invest
 - ⚡ Fun fact: ...
   - I love nature, Art, Creative Writing, Daydreaming, Exploring, Learning, Music, Reading, Theater, Gaming, and watching Movies, Anime, Series.
 
-![KernelFreeze's GitHub stats](https://github-readme-stats.vercel.app/api?username=KernelFreeze&count_private=true&show_icons=true&theme=radical)
